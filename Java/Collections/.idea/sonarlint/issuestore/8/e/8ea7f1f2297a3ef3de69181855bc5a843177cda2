@@ -1,0 +1,7 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "e2".(—‰ü‡ıÿÿÿÿ8‡æŸş/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€ˆßL
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€‡òÖùÿÿÿÿ
+}
+java:S4165"`Remove this useless assignment; "e2" already holds the assigned value along all execution paths.(¿ÇĞ8“æŸş/

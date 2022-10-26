@@ -1,0 +1,8 @@
+
+N
+java:S2440"3Remove this instantiation of "NotificationFactory".(İäÌîıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(æóâˆúÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¹£ÁÃùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¾¹ûûÿÿÿÿ

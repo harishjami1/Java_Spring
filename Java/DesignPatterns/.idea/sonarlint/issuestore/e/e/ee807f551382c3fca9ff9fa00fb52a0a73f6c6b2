@@ -1,0 +1,18 @@
+
+@
+java:S2157"%Add a "clone()" method to this class.(›©—òûÿÿÿÿ
+l
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Þ±íQ
+h	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å˜¹çùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ƒ‹³üÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "s1".(ÔÛ¿Èúÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "s".(çõ–¿
+V	java:S125"<This block of commented-out lines of code should be removed.(Ï“Ž‡üÿÿÿÿ
+<
+java:S1481"&Remove this unused "s" local variable.(çõ–¿
+B
+java:S1481"'Remove this unused "s1" local variable.(ÔÛ¿Èúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸÞ

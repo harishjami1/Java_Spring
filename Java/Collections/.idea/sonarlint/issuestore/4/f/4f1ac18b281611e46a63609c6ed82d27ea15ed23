@@ -1,0 +1,12 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(‡«ÒŽøÿÿÿÿ
+?
+java:S1197"*Move the array designators [] to the type.(½§¦y
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€õ±÷ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÞØñq
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'java.util.function.IntPredicate'.(áÕÚ¢
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÊáŸÊþÿÿÿÿ
+5
+java:S2676"Use the original value instead.(¨‡î—
+5
+java:S2676+"Use the original value instead.(¨‡î—
+2
+java:S11165"Remove this empty statement.(Å¬áˆ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ÿ€‰Šûÿÿÿÿ
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¬áˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁËÓè
+Z
+java:S2259!"DA "NullPointerException" could be thrown; "bucket" is nullable here.(ÄôÕ×

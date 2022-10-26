@@ -1,0 +1,10 @@
+
+_
+java:S2147"DCombine this catch with the one at line 17, which has the same body.(†«”Ïüÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à‹İÙıÿÿÿÿ8ı¾ï©ş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùòû¢ùÿÿÿÿ8¦ğ©ş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†èºùÿÿÿÿ8©Õó©ş/
+X	java:S125"<This block of commented-out lines of code should be removed.(­Ãòõ8áıó©ş/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá

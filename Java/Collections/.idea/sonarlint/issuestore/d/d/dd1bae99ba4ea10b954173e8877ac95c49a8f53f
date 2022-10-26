@@ -1,0 +1,16 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÈŠƒ‡
+9
+java:S2440"#Remove this instantiation of "Emp".(æ¨ïí
+9
+java:S2440	"#Remove this instantiation of "Emp".(©—Éî
+P
+java:S2209
+"5Change this instance-reference to a static reference.(Î™“Ûÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½é’É
+K
+java:S2209"5Change this instance-reference to a static reference.(½é’É
+K
+java:S2209"5Change this instance-reference to a static reference.(½é’É
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İª²øÿÿÿÿ

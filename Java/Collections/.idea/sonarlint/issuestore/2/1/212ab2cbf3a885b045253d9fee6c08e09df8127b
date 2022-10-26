@@ -1,0 +1,13 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(—‚¨„ùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(øô8¦¹êïþ/
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÔÂè
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ãª¨ž
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(´¯åø8¥ØÊþ/
+T	java:S106."9Replace this use of System.out or System.err by a logger.(±ê¤{8ŠÕÀÏþ/
+J
+java:S1604'"(Make this anonymous inner class a lambda(ò‚ÙÈýÿÿÿÿ8žöçïþ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õØ“
+T
+java:S2589#"7Remove this expression which always evaluates to "true"(Î³Ø­8ú×ÂÏþ/

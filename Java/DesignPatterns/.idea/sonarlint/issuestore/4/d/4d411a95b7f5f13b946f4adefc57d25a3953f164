@@ -1,0 +1,18 @@
+
+V	java:S125!"<This block of commented-out lines of code should be removed.(¶ÍÃùÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(‹ĞÉˆşÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(…Éµ˜ıÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(Ó²ñ‘ùÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ğº»Ş
+V	java:S1256"<This block of commented-out lines of code should be removed.(¿¥ßöúÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦òåá
+{
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁËÆıÿÿÿÿ8×íáı/
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ï€ìÒúÿÿÿÿ
+|
+java:S1319"aThe type of "hmap" should be an interface such as "Map" rather than the implementation "HashMap".(Ï€ìÒúÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(ãÚ¬æúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá

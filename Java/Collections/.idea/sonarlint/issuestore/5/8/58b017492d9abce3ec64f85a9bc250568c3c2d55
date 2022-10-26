@@ -1,0 +1,30 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ŒóÿC
+E
+java:S3740 "/Provide the parametrized type for this generic.(ÃöãÊ
+J
+java:S3740)"/Provide the parametrized type for this generic.(¸Ğ¼·ÿÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šªˆ¡ÿÿÿÿÿ
+{
+java:S1149("eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©¢Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿Õ®‹
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+7
+java:S1116"Remove this empty statement.(šªˆ¡ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï˜©â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çáî˜
+]	java:S125"<This block of commented-out lines of code should be removed.(İ€æ¿øÿÿÿÿ8ËëÌïş/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Åòı(
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Àà]
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ“²j
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(íÈÕ‘
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ßŸªŠ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(æ¤’°
+B
+java:S16020",Remove useless curly braces around statement(¥ƒãË
+V
+java:S16120"@Replace this lambda with method reference 'System.out::println'.(¥ƒãË
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ

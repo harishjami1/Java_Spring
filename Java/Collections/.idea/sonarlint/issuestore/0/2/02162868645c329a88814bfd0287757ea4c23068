@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(æ€Åâøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ€Åâøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³§¬Ø
+B
+java:S1602",Remove useless curly braces around statement(õïÖ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÚû©úÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®

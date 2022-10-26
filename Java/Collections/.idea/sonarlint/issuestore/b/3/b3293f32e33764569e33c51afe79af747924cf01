@@ -1,0 +1,12 @@
+
+o
+java:S3008"TRename this field "max_seats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿’‰Æıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(æ¸›
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğœûÇùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ğœûÇùÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Õ±
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ı÷¶ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë€¶üıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Éø©

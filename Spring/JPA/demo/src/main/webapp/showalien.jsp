@@ -1,0 +1,1 @@
+${alien.getAid()}  ${alien.getAname()} ${alien.getTech()}

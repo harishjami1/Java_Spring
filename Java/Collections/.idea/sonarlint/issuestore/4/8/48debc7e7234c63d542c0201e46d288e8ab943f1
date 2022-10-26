@@ -1,0 +1,19 @@
+
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¢Ò’ûÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "s2".(àÑñ¤ûÿÿÿÿ
+B
+java:S1481"'Remove this unused "s2" local variable.(àÑñ¤ûÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+y
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ý…¦ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ëðáìùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£±¼Ÿ

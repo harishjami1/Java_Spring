@@ -1,0 +1,24 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "set".(Ù‚â·
+T
+java:S1854"9Remove this useless assignment to local variable "list2".(óà„Ÿøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ìõ¦Êùÿÿÿÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(òìøÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òìøÎ
+>
+java:S1481"(Remove this unused "set" local variable.(Ù‚â·
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(´Ûâž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´Ûâž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íƒ²ï
+E
+java:S1481"*Remove this unused "list2" local variable.(óà„Ÿøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ªªš
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿƒÁÐ
+V	java:S125 "<This block of commented-out lines of code should be removed.(ÎœìÏûÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãø”˜þÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá

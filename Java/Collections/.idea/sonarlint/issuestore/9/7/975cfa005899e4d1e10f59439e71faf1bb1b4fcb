@@ -1,0 +1,13 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(îÿÿ“
+_
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(åþŒóùÿÿÿÿ
+_
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(†ëˆçùÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+j
+java:S1215!"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ôœ°

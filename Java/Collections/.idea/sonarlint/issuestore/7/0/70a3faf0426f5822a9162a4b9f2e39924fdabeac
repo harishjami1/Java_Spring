@@ -1,0 +1,20 @@
+
+q
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(¸¿¡É
+E
+java:S1611	"/Remove the parentheses around the "k" parameter(¸¿¡É
+Q
+java:S1612	";Replace this lambda with method reference 'String::length'.(¸¿¡É
+J
+java:S1611
+"/Remove the parentheses around the "k" parameter(¡ñ˜äùÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "p" parameter(ãßá˜
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ãßá˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãßá˜
+V	java:S125"<This block of commented-out lines of code should be removed.(Á–­‹úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§òñäÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„µ€—ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²Æšâ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…žüßûÿÿÿÿ
