@@ -2,7 +2,7 @@ package BlockingQueue;
 
 
  class BlockingQueue {
-    int []bq = new int[10];
+    static int []bq = new int[10];
     int front=0,back=0,count=0;
     synchronized void put(int x) throws InterruptedException
     {

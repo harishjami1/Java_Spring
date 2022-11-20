@@ -25,6 +25,10 @@ public class HomeController {
        
         return repo.getByDeptId(id);
     }
-    
+    @GetMapping("/")
+    public String get()
+    {
+        return "Hi! Welcome";
+    }
     
 }

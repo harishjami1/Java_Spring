@@ -26,10 +26,11 @@ public class Rator {
 
 
         l.add(new Laptop1(8,300));
+        l.add(new Laptop1(8,250));
         l.add(new Laptop1(4,200));
         l.add(new Laptop1(16,500));
         Comparator<Laptop1>  l1 = (o1,o2)-> o1.getRam().compareTo(o2.getRam());
-
+        Comparator<Laptop1> priceComparator = (o1,o2)-> o1.getPrice()-o2.getPrice();
         Optional opt = Optional.of(" ");
         System.out.println(opt.isPresent());
         if(opt.isPresent()){
@@ -37,6 +38,7 @@ public class Rator {
         }
         opt.ifPresent(System.out::println);
         Collections.sort(l,l1);
+        //Collections.sort(l,priceComparator);
         Collections.sort(l, new Comparator<Laptop1>() {
             @Override
             public int compare(Laptop1 o1, Laptop1 o2) {

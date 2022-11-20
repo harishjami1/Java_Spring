@@ -8,20 +8,34 @@ import com.example.demo.dao.AlienRepo;
 import com.example.demo.model.Alien;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
-
+@Component
+//@Scope("prototype")
+class B
+{
+	 static int a = 10;
+	
+	public void m2(){
+		System.out.println(a++);
+	}
+}
 @RestController
 public class AlienController {
+    @Autowired
+    B b,b1;
     @Autowired
     AlienRepo repo;
     @RequestMapping("/home")
     public String home(){
+        b.m2();
+        b1.m2();
         System.out.println("In Home");
         return "home.jsp";
     }

@@ -10,7 +10,7 @@ public class Demo {
 }
 class Demo2 extends Demo{
     @Override
-    void getter() throws ArithmeticException {
+    void getter() throws ArithmeticException {//Not Parent Exception
         System.out.println("Sub Getter");
     }
 

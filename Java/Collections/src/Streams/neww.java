@@ -11,6 +11,7 @@ public class neww{
         List<Integer> myList = Arrays.asList(10,15,8,49,25,98,98,32,15);
         String input = "Java Hungry Blog Alive is Awesome";
         List<Character> list = input.chars().mapToObj(k->(char)k).collect(Collectors.toList());
+         System.out.println( myList.stream().mapToInt(x->x).max());
          System.out.println( myList.stream().distinct().filter(k->Collections.frequency(myList,k)==1).findFirst());
          System.out.println( input.chars().mapToObj(k->(char)k).distinct().filter(k-> Collections.frequency(list,k)==1).findFirst().get());
     }
